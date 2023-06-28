@@ -1,7 +1,7 @@
 
-# Cab Management System
+# Ride Car
 
-Cab Management System
+Ride Car
 This is a simple Cab Management System implemented in Java. It allows administrators, drivers, and customers to perform various operations related to cab booking and management.
 
 Features
